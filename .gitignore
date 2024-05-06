@@ -1,0 +1,11 @@
+.DS_Store
+*.pyc
+.idea/
+.mypy_cache/
+__pycache__/
+.pytest_cache/
+.ruff_cache/
+.vscode/
+.coverage
+htmlcov/
+venv/
