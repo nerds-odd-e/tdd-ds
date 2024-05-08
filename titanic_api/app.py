@@ -1,4 +1,3 @@
-# model.feature_names_in_
 from contextlib import asynccontextmanager
 import joblib
 from fastapi import FastAPI
