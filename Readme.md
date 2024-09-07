@@ -1,4 +1,4 @@
-# Exercises for TDD for Data Scientists
+# TDD Exercises for Data Scientists
 
 ## Setup
 
